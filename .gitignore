@@ -1,0 +1,15 @@
+__pycache__/
+
+.env
+
+.pem
+
+/venv/
+
+/media/*
+!/media/.gitkeep
+
+/static/*
+!/static/.gitkeep
+
+db.sqlite3
